@@ -1,7 +1,7 @@
 # Covid19 Tracker
 This application we will look into covid19 data analysis based on country as well as global. 
 
-# Description
+## Description
 React and Covid19 Rest api used.
 ### Rest api. 
 [covid19 Rest api] (https://covid19.mathdro.id/api).
