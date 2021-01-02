@@ -19,7 +19,7 @@ Whenever select country will showing bar chart.
 
 Global data showing line chart.
 
-![Globaldata.PNG](https://github.com/jayabal90/covid19_tracker/blob/master/src/images/Globaldata.PNG)
+![Global Data.PNG](https://github.com/jayabal90/covid19_tracker/blob/master/src/images/Global Data.PNG)
 
 
 
