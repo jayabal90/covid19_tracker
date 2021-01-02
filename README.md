@@ -9,8 +9,6 @@ React and Covid19 Rest api used.
 ## Hosting URL
 [Covid19 Tracker](https://jay-covid19-tracker.netlify.app/). 
 
-# Hosting Snap
-
 ## Home page:
 ![Frontpage.PNG](https://github.com/jayabal90/covid19_tracker/blob/master/src/images/Frontpage.PNG)
 
