@@ -1,7 +1,9 @@
 # Covid19 Tracker
-This application we seeing covid19 data analysis based on country. 
+This application we will look into covid19 data analysis based on country as well as global. 
 
-# Rest Api
+# Description
+React and Covid19 Rest api used.
+### Rest api. 
 [covid19 Rest api] (https://covid19.mathdro.id/api).
 
 ## Hosting URL
@@ -19,7 +21,7 @@ Whenever select country will showing bar chart.
 
 Global data showing line chart.
 
-![Global Data.PNG](https://github.com/jayabal90/covid19_tracker/blob/master/src/images/Global Data.PNG)
+![Global%20Data.PNG](https://github.com/jayabal90/covid19_tracker/blob/master/src/images/Global%20Data.PNG)
 
 
 
